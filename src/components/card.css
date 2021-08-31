@@ -1,0 +1,31 @@
+.card {
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 6px #00032b86;
+    margin: 20px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardInfo {
+    text-align: center;
+    margin: 5px;
+}
+
+.addCard {
+    background-color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid #3c3cad;
+    margin-bottom: 3px;
+}
+
+.addCard:hover {
+    background-color: #3c3cad;
+    color: white;
+}

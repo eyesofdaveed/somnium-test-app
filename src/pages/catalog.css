@@ -1,0 +1,28 @@
+.catalog {
+    background-color: #f0f7ff;
+    padding-top: 2vh;
+    height: 92vh;
+}
+
+.catalogWrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.catalogSearchBar {
+    display: flex;
+    justify-content: center;
+}
+
+.catalogSearchBar input {
+    padding: 5px 10px;
+    border: 2px solid #3c3cad;
+    outline: none;
+    border-radius: 5px;
+}
+
+.catalogList {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

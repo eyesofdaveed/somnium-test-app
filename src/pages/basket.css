@@ -1,0 +1,13 @@
+.basket {
+    background-color: #f0f7ff;
+    padding-top: 2vh;
+    height: 92vh;
+}
+
+.basketWrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
