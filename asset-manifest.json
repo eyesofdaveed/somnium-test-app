@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/somnium-app-demo/static/css/main.f016d21c.chunk.css",
+    "main.js": "/somnium-app-demo/static/js/main.b67b6f98.chunk.js",
+    "main.js.map": "/somnium-app-demo/static/js/main.b67b6f98.chunk.js.map",
+    "runtime-main.js": "/somnium-app-demo/static/js/runtime-main.622c0305.js",
+    "runtime-main.js.map": "/somnium-app-demo/static/js/runtime-main.622c0305.js.map",
+    "static/js/2.bb72b67c.chunk.js": "/somnium-app-demo/static/js/2.bb72b67c.chunk.js",
+    "static/js/2.bb72b67c.chunk.js.map": "/somnium-app-demo/static/js/2.bb72b67c.chunk.js.map",
+    "index.html": "/somnium-app-demo/index.html",
+    "static/css/main.f016d21c.chunk.css.map": "/somnium-app-demo/static/css/main.f016d21c.chunk.css.map",
+    "static/js/2.bb72b67c.chunk.js.LICENSE.txt": "/somnium-app-demo/static/js/2.bb72b67c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.622c0305.js",
+    "static/js/2.bb72b67c.chunk.js",
+    "static/css/main.f016d21c.chunk.css",
+    "static/js/main.b67b6f98.chunk.js"
+  ]
+}
