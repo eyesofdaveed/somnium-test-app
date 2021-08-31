@@ -1,6 +1,8 @@
 # Somnium Test APP
 Shopping card with search bar and total price counter
 
+## Used Technologies
+React, react-router-dom, Context API
 
 ## Available Scripts
 
